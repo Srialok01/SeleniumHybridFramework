@@ -21,4 +21,4 @@ Here we launch the browser and navigate to url ( @BeforeMethod )
 Post that Script is executed accordingly (@Test)
 
 Finally browser is closed (@AfterMethod)
-5--Utility -- This contains the code for capturing screenshot and attaching it to report.
+5--Utility -- This contains the code for capturing screenshot and attaching it to the report.
